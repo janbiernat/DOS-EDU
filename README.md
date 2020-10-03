@@ -1,2 +1,2 @@
 # DOS-EDU
-W tym repozytorium umieszczone są programy przeznaczone dla systemu DOS (czyli jest to już kawałek historii). Ten kawałek historii wspominam z dużym sentymentem, dlatego umieściłem te programu tutaj. 
+W tym repozytorium umieszczone są programy edukacyjne przeznaczone dla systemu DOS (czyli jest to już kawałek historii). Ten kawałek historii wspominam z dużym sentymentem. Programy zostały napisane w języku Borland Turbo Pascal 7.0 w trybie graficznym. Przy pisaniu tych programów wykorzystałem własną bibliotekę graficzną, której interfejs przypomina Windows 95. Nad biblioteką pracowałem około 6 miesięcy (oczywiście nie w każdy dzień, tylko w tedy jak czas pozwolił – czyli w wolnych chwilach). 
